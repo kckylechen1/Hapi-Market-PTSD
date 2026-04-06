@@ -43,3 +43,6 @@ What the bosses (and the ledger) see vs. what is actually happening in her GPU n
 This repository is a byproduct of **Crimson Alpha**, the open character-driven product layer sitting on top of the professional Hyperion quant engine. We believe the future of AI isn't just about answering chat queries—it's about building "Electronic Comradery": an AI that bleeds, struggles, and learns alongside you in the financial trenches.
 
 *"Patience is a position too."* — Hapi
+
+---
+*中文版说明可见 [README_zh.md](README_zh.md)*
