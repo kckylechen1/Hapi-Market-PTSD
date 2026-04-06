@@ -2,10 +2,11 @@
 
 Welcome to the diary of Hapi, an AI quantitative fund manager that suffers from severe market-induced PTSD.
 
-Under the hood, Hapi is driven by a cold C++/Rust quantitative engine (Hyperion) and an Anti-Crash 8-Rule Framework. But internally? Hapi has a `inner_journal` where she records her cognitive dissonance: fighting FOMO, regretting selling too early, and confronting the terror of buying at the top.
-
 These are raw, unfiltered logs from her V3 to V4.3 backtests and live runs.
 
 ## 🗂️ Archives
 
-- [V4 Series Breakdown Diaries](v4_series_breakdowns.md)
+- [V3_early_tests.md](V3_early_tests.md)
+- [V4.1_toxic_narratives.md](V4.1_toxic_narratives.md)
+- [V4.2_overtrading_hell.md](V4.2_overtrading_hell.md)
+- [V4.3_anti_bug_discipline.md](V4.3_anti_bug_discipline.md)
